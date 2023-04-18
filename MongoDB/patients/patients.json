@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "643f0795fd60f510cd7e47e4"
+  },
+  "name": "Julio",
+  "age": "11",
+  "treatment": "1",
+  "password": "$2b$10$uu.SejC//vRR77wmnbLWG.O4JbFH2QVdWbEY3l0R1q.gFObJPgfAC",
+  "document": "50444963885",
+  "address": "Rua Antonio Fonseca",
+  "phone": 9585,
+  "createdAt": {
+    "$date": "2023-04-18T21:06:28.859Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f0f500300e4d55b3cda5c"
+  },
+  "name": "Helton Dias",
+  "age": "21",
+  "treatment": "2",
+  "password": "$2b$10$KGFZW585mlezP/v5hGeUc.1P1pGp8PXrkqxo7DJQ.9/mc0ZxUOjQW",
+  "document": "65847",
+  "address": "Rua Professor Raimundi",
+  "phone": 988885,
+  "createdAt": {
+    "$date": "2023-04-18T21:41:54.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f11d70300e4d55b3cda66"
+  },
+  "name": "Luiz Ferreira",
+  "age": "30",
+  "treatment": "3",
+  "password": "$2b$10$7NaMc4XDx7OTsmjzG.Cwnu6aBLYPNoCrSVqlsyRFNRsaBy7jzdhMa",
+  "document": "50444896",
+  "address": "Av. Professor Joarez",
+  "phone": 98566575,
+  "createdAt": {
+    "$date": "2023-04-18T21:41:54.485Z"
+  },
+  "__v": 0
+}]

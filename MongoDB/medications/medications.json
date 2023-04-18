@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "643f0c2d42f098f6cac172e9"
+  },
+  "registry": "1",
+  "name": "Bromoprida",
+  "marking": "Holistix",
+  "validity": "12/23",
+  "password": "$2b$10$.Zor2MB1fBNaPpklBK67Qu7e5q04cyEzREPga0pDgwJpK70kczkL6",
+  "createdAt": {
+    "$date": "2023-04-18T21:31:08.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f0dee5e652ddd08f76782"
+  },
+  "registry": "2",
+  "name": "Paracetamol",
+  "marking": "Janssen-Cilag",
+  "validity": "12/23",
+  "password": "$2b$10$FbMnCOsn2cV00FVoHJEsuuUsRbzoK1aLb884M7jW.vajxRcLYS242",
+  "createdAt": {
+    "$date": "2023-04-18T21:37:06.814Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f0e485e652ddd08f76786"
+  },
+  "registry": "3",
+  "name": "Ibuprofeno",
+  "marking": "Advil",
+  "validity": "12/23",
+  "password": "$2b$10$uLv6p6IvHN83Unlgy/q1oeFr72wv65yXgYncbcGpywyoURdJtjXNW",
+  "createdAt": {
+    "$date": "2023-04-18T21:37:06.814Z"
+  },
+  "__v": 0
+}]
