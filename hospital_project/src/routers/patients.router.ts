@@ -24,7 +24,7 @@ router.get('/treatment/:treatment', authorizationMiddleware, async (req: Request
     }
   });
 
-//Responsavel por pesquisar algum paciente especifico utilizando o Atendimento
+//Responsavel por pesquisar algum paciente especifico utilizando o Nome
 router.get('/name/:name', authorizationMiddleware, async (req: Request, res: Response) => {
     try {
       const patient = await PatientsService.getByName(req.params.name);
